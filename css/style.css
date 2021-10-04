@@ -19,7 +19,7 @@
 }
 
 .img-about {
-  background-image: url("../assets/illustrations/Scenes/Scenes-card.svg");
+  background-image: url("../assets/illustrations/Scenes/Scenes-ad.svg");
   max-width: 550px;
   height: 400px;
 }
@@ -95,44 +95,3 @@
   font-size: 30px;
   margin-bottom: 5px;
 }
-/*
-.cx {
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-evenly;
-  gap: 4rem;
-}
-@media screen and (max-width: 568px) {
-  .cx {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 0;
-  }
-}
-.x1 {
-  margin-bottom: 5rem;
-}
-.x2 {
-  max-width: 800px;
-}
-@media screen and (max-width: 568px) {
-  .x1 {
-    margin-bottom: 0rem;
-  }
-}
-.svg {
-  max-width: 400px;
-  height: 400px;
-  margin: 0;
-  padding: 0;
-}
-@media screen and (min-width: 568px) {
-  .svg {
-    max-width: 600px;
-    height: 600px;
-  }
-}
-
-*/
